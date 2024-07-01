@@ -1,3 +1,4 @@
+![blackhead](https://github.com/alagusundaramramesh/FSD/assets/121854111/b67e571a-6f6e-4c2f-87a8-d71b77f30def)
 # Face Skin Disease Classification Using CNN.
 
 
