@@ -1,4 +1,4 @@
-![blackhead](https://github.com/alagusundaramramesh/FSD/assets/121854111/b67e571a-6f6e-4c2f-87a8-d71b77f30def)
+
 # Face Skin Disease Classification Using CNN.
 
 
@@ -34,5 +34,9 @@ You can install the required packages using the following command:
 pip install tensorflow numpy pillow matplotlib
 ## To train the model
 ## To make predictions on a new image
+sample output
+![chatify](https://github.com/alagusundaramramesh/FSD/assets/121854111/a587250d-98fa-4b51-af6d-07c3dbf8de60)
+
+![blackhead](https://github.com/alagusundaramramesh/FSD/assets/121854111/b67e571a-6f6e-4c2f-87a8-d71b77f30def)
 
 
