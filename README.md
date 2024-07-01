@@ -1,11 +1,10 @@
 
 # Face Skin Disease Classification Using CNN.
-
+![blackhead](https://github.com/alagusundaramramesh/FSD/assets/121854111/3970964a-c397-4ba0-bd67-499402f9bcc6)
 
 This project aims to classify different skin diseases using a Convolutional Neural Network (CNN). The model is built using TensorFlow and Keras and trained on a dataset of skin disease images.
 
 ## Dataset
-
 The dataset should be organized in the following directory structure:
 train/
 blackhead/
@@ -19,7 +18,6 @@ rosacea/
 tineafasialis/
 
 Each subdirectory should contain images corresponding to the respective class.
-
 ## Requirements
 
 - Python 3.6+
@@ -35,8 +33,8 @@ pip install tensorflow numpy pillow matplotlib
 ## To train the model
 ## To make predictions on a new image
 sample output
-![chatify](https://github.com/alagusundaramramesh/FSD/assets/121854111/a587250d-98fa-4b51-af6d-07c3dbf8de60)
 
-![blackhead](https://github.com/alagusundaramramesh/FSD/assets/121854111/b67e571a-6f6e-4c2f-87a8-d71b77f30def)
+
+
 
 
